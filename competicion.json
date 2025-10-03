@@ -1,0 +1,189 @@
+{
+ "competicionE": [
+    {
+      "nombre": "IRONMAN Vitoria-Gasteiz",
+      "Tipo de competición": "Ironman",
+      "Fecha (aprox.)": "Julio",
+      "Ciudad/Ubicación": "Gasteiz",
+      "Link oficial": "https://www.ironman.com/im-vitoria-gasteiz"
+    },
+    {
+      "nombre": "Maratón de Logroño",
+      "Tipo de competición": "Maratón",
+      "Fecha (aprox.)": "Octubre",
+      "Ciudad/Ubicación": "Logroño",
+      "Link oficial": "https://www.maratonesespana.es/calendario-maratones-espana-2025/"
+    },
+    {
+      "nombre": "IRONMAN 70.3 Barcelona",
+      "Tipo de competición": "Ironman 70.3",
+      "Fecha (aprox.)": "Octubre",
+      "Ciudad/Ubicación": "Calella",
+      "Link oficial": "https://www.ironman.com/im703-barcelona"
+    },
+    {
+      "nombre": "Palma Marathon Mallorca",
+      "Tipo de competición": "Maratón",
+     "Fecha (aprox.)": "19 de octubre de 2025",
+      "Ciudad/Ubicación": "Palma de Mallorca",
+      "Link oficial": "https://www.maratonesespana.es/calendario-maratones-espana-2025/"
+    },
+    {
+      "nombre": "Maratón Elche Alicante",
+      "Tipo de competición": "Maratón",
+      "Fecha (aprox.)": "30 de noviembre de 2025",
+      "Ciudad/Ubicación": "Elche/Alicante",
+      "Link oficial": "https://www.maratonesespana.es/calendario-maratones-espana-2025/"
+    }
+  
+  ],
+  "competicionP": [
+    {
+      "nombre": "EDP Lisbon Marathon",
+      "Tipo de competición": "Maratón",
+      "Fecha (aprox.)": "25 de octubre de 2025",
+      "Ciudad/Ubicación": "Lisboa",
+      "Link oficial": "https://www.running-portugal.com/lisbon/marathon/es/home.html"
+    },
+    {
+      "nombre": "EDP Porto Marathon",
+      "Tipo de competición": "Maratón",
+      "Fecha (aprox.)": "02 de noviembre de 2025",
+     "Ciudad/Ubicación": "Oporto",
+      "Link oficial": "https://www.finishers.com/es/d/europa/portugal"
+    },
+    {
+      "nombre": "IRONMAN Portugal - Cascais",
+      "Tipo de competición": "Ironman (Full)",
+      "Fecha (aprox.)": "18 de octubre de 2025",
+      "Ciudad/Ubicación": "Cascais",
+      "Link oficial": "https://www.ironman.com/races/xclusive-challenge/im-cascais-2025"
+    },
+    {
+      "nombre": "IRONMAN 70.3 Portugal - Cascais",
+      "Tipo de competición": "Ironman 70.3",
+      "Fecha (aprox.)": "18 de octubre de 2025",
+      "Ciudad/Ubicación": "Cascais",
+      "Link oficial": "https://www.visitportugal.com/es/content/ironman-703-portugal"
+    },
+    {
+      "nombre": "TRITON World Finals - Portimão",
+      "Tipo de competición": "Triatlón (Multidistancia)",
+      "Fecha (aprox.)": "24-26 de octubre de 2025",
+      "Ciudad/Ubicación": "Portimão",
+      "Link oficial": "https://www.finishers.com/es/a/triatlon/triatlones-en-portugal"
+    }
+  ],
+   "competicionI": [
+    {
+      "nombre": "Triathlon Olimpico di Suviana",
+      "Tipo de competición": "Triatlón (Olímpico)",
+      "Fecha (aprox.)": "12 de julio de 2025",
+      "Ciudad/Ubicación": "Camugnano (BO)",
+      "Link oficial": "https://www.nextrace.net/timing/calendario.php?lan=it"
+    },
+    {
+      "nombre": "IRONMAN Italy Emilia Romagna",
+      "Tipo de competición": "Ironman (Full)",
+      "Fecha (aprox.)": "20 de septiembre de 2025",
+      "Ciudad/Ubicación": "Cervia",
+      "Link oficial": "https://www.finishers.com/es/evento/ironman-emilia-romana"
+    },
+    {
+      "nombre": "ELBAMAN Triathlon",
+      "Tipo de competición": "Triatlón (Full/Half Ironman)",
+      "Fecha (aprox.)": "28 de septiembre de 2025",
+      "Ciudad/Ubicación": "Marina di Campo",
+      "Link oficial": "https://www.ahotu.com/es/calendario/triatlon/italia"
+    },
+    {
+      "nombre": "PeschieraTri",
+      "Tipo de competición": "Triatlón (Sprint/Olímpico/Medio)",
+      "Fecha (aprox.)": "04-05 de octubre de 2025",
+      "Ciudad/Ubicación": "Peschiera del Garda",
+      "Link oficial": "https://www.ahotu.com/es/calendario/triatlon/italia"
+    },
+    {
+      "nombre": "Water Fire Triathlon - Extreme Etna",
+      "Tipo de competición": "Triatlón (Full Distance)",
+      "Fecha (aprox.)": "24-26 de octubre de 2025",
+      "Ciudad/Ubicación": "Taormina (Sicilia)",
+      "Link oficial": "https://www.fitri.it/it/gare/calendario/eventifitri.html?distanza=3"
+    }
+  ],
+  "competicionF": [
+  {
+    "nombre": "XTERRA France",
+    "Tipo de competición": "Triatlón Cross",
+    "Fecha (aprox.)": "06 de julio de 2025",
+    "Ciudad/Ubicación": "Xonrupt-Longemer",
+    "Link oficial": "https://www.ahotu.com/es/calendario/triatlon/julio/francia"
+  },
+  {
+    "nombre": "ALTRIMAN - Triathlon de Montagne",
+    "Tipo de competición": "Triatlón (Multidistancia)",
+    "Fecha (aprox.)": "12-13 de julio de 2025",
+    "Ciudad/Ubicación": "Les Angles",
+    "Link oficial": "https://www.ahotu.com/es/calendario/triatlon/julio/francia"
+  },
+  {
+    "nombre": "Ironman 70.3 de Vichy",
+    "Tipo de competición": "Ironman 70.3",
+    "Fecha (aprox.)": "24 de agosto de 2025",
+    "Ciudad/Ubicación": "Vichy",
+    "Link oficial": "https://www.finishers.com/es/evento/ironman-70-3-de-vichy"
+  },
+  {
+    "nombre": "Toulouse Métropole Run Expérience",
+    "Tipo de competición": "Maratón",
+    "Fecha (aprox.)": "Noviembre de 2025",
+    "Ciudad/Ubicación": "Toulouse",
+    "Link oficial": "https://www.finishers.com/es/a/carreras-de-asfalto/maraton/maratones-en-francia"
+  },
+  {
+    "nombre": "MAIF Ekiden de Paris",
+    "Tipo de competición": "Maratón (Ekiden)",
+    "Fecha (aprox.)": "Noviembre de 2025",
+    "Ciudad/Ubicación": "París",
+    "Link oficial": "https://www.finishers.com/es/a/carreras-de-asfalto/maraton/maratones-en-francia"
+  }
+],
+"competicionA": [
+  {
+    "nombre": "Maratón Internacional de Pacasmayo",
+    "Tipo de competición": "Maratón",
+    "Fecha": "06 de julio de 2025",
+    "Ciudad/Ubicación": "Pacasmayo, Perú",
+    "Link oficial": "https://www.ahotu.com/es/calendario/running/maraton/america-del-sur"
+  },
+  {
+    "nombre": "Maraton Internacional de San Juan",
+    "Tipo de competición": "Maratón",
+    "Fecha": "27 de julio de 2025",
+    "Ciudad/Ubicación": "San Juan, Argentina",
+    "Link oficial": "https://www.ahotu.com/es/calendario/running/maraton/america-del-sur"
+  },
+  {
+    "nombre": "Maratón de la Ciudad de México Telcel",
+    "Tipo de competición": "Maratón",
+    "Fecha": "31 de agosto de 2025",
+    "Ciudad/Ubicación": "Ciudad de México, México",
+    "Link oficial": "https://www.ahotu.com/es/calendario/running/maraton/central-america"
+  },
+  {
+    "nombre": "IRONMAN 70.3 Muskoka",
+    "Tipo de competición": "Ironman 70.3",
+    "Fecha": "06 de julio de 2025",
+    "Ciudad/Ubicación": "Huntsville, Canadá",
+    "Link oficial": "https://www.ahotu.com/calendar/triathlon/north-america"
+  },
+  {
+    "nombre": "IRONMAN 70.3 Indian Wells La Quinta",
+    "Tipo de competición": "Ironman 70.3",
+    "Fecha": "07 de diciembre de 2025",
+    "Ciudad/Ubicación": "Indian Wells, Estados Unidos",
+    "Link oficial": "https://runningintheusa.com/multisport/list/map/Triathlon/upcoming"
+  }
+]
+
+}

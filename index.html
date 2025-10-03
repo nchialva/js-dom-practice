@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--favico-->
+    <link rel="icon" type="image/x-icon" href="favico.ico">
+    <!--css-->
+    <link rel="stylesheet" href="./css/style.css">
+    <!--bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!--google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <title>Chialva Nicolas</title>
+</head>
+<body>
+ 
+<!--NAV-->
+<section class="link-navBar">
+    <nav>
+        <div>
+            <img src="./assets/galeria/Preview(1).png" alt="logo" class="logo" width="200" height="200">
+        </div>
+        <ul>
+            <li class="menu-item active"><a href="#">Inicio</a></li>
+            <li><a href="./views/galeria.html">Galeria</a></li>
+            <li><a href="./views/contactanos.html">Contactanos</a></li>
+            <li><a href="./views/presupuesto.html">Presupuesto</a></li> 
+        </ul>
+     </nav>
+</section>
+
+<!--VIDEO PRESENTACION-->
+
+ <header class="header-video-container">
+        <!-- El video de fondo -->
+        <video autoplay loop muted playsinline class="header-video">
+            <!-- Fuentes de respaldo (Mixkit, por si la local no carga o por compatibilidad) -->
+            <source src="./assets/video/5310858-sd_960_540_25fps.mp4" type="video/mp4">
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-beautiful-landscape-of-mountains-and-a-forest-47758-large.mp4" type="video/mp4">
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-beautiful-landscape-of-mountains-and-a-forest-47758-large.webm" type="video/webm">
+            Tu navegador no soporta la etiqueta de video.
+        </video>
+
+        <!-- Capa de superposición para mejorar la legibilidad del texto -->
+        <div class="video-overlay"></div>
+
+        <!-- Contenido de la presentación (título y subtítulo) -->
+        <div class="container-presentacion">
+            <div class="presentacionTitulo">
+                <h1>Nicolas <br> Chialva</h1>
+                <p>Corre con Nosotros</p>
+            </div>
+        </div>
+    </header>
+    
+  
+    <main>
+  
+    <!--PRIMERA SECCION-->
+
+
+    <section class="contenedor-img">
+        <div class="img-bttn">
+            <img src="./assets/galeria/pexels-god-picture-369194295-22745626.jpg" alt="Entrenamiento running" width="640"  height="870" id="cards-scroll">
+            <div class="conteiner-info-galeria">
+                <div class="h4-seccion1">
+                    <h4 >Nuestra graleria</h4>
+                </div>
+                <div class="p-seccion1">
+                    <p>Te invitamos a conocerla</p>
+                </div>
+        
+            </div>
+        </div>
+        <img src="./assets/galeria/pexels-koolshooters-8520628.jpg" alt="joven corriendo" width="640"  height="960" >
+        <img src="./assets/galeria/pexels-cottonbro-5310915.jpg" alt="joven corriendo" width="640"  height="960">
+    </section>
+
+
+    <!--SEGUNDA SECCION-->
+    <section class="conteiner-servicios">
+        <h2 class="titulo-top">Nuestros servicios</h2>
+        <div class="conteiner-card">
+            <div class="card cards-scroll" style="width: 18rem;">
+                <img src="./assets/servicios/clayton-malquist--kpgaDcpBEE-unsplash.jpg"  
+                alt="jovenes corriendo" width="640"  height="856">
+                <div class="card-body">
+                    <h5 class="card-title">Initial training</h5>
+                    <p class="card-text">Plan ideal para personas que quieren iniciar transitar el fantastico mundo del running por primera vez y no saben por donde iniciar.</p>
+                    <a href="./views/presupuesto.html"><p>Conocer mas</p>
+                    </a>
+                </div>
+            </div>
+            <div class="card cards-scroll" style="width: 18rem;">
+                <img src="./assets/servicios/mike-von-FM1yYLAS6Ws-unsplash.jpg" class="card-img-top" alt="plan nutricional" width="640"  height="960">
+                <div class="card-body">
+                    <h5 class="card-title">NutriSinergia</h5>
+                    <div class="link-presupuesto">
+                        <p class="card-text">Plan integral alimenticio para que tengas energias despues de tanto entrenamiento, la energia la adquirimos de lo que consumimos.</p>
+                        <a href="./views/presupuesto.html"><p>Conocer mas</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card cards-scroll" style="width: 18rem;">
+                <img src="./assets/servicios/stefan-scheepmaker-AIugGj3r0ac-unsplash.jpg" class="card-img-top" alt="atletas de elite" width="640"  height="960">
+                <div class="card-body">
+                    <h5 class="card-title">EliteStride</h5>
+                    <p class="card-text">Plan especializado para personas que ya se entrenan y quieren preparar una maraton o una carrera de distancias que no han hecho aun.</p>
+                    <a href="./views/presupuesto.html"><p>Conocer mas</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--TERCERA SECCION-->
+    <section id="cajaM" class="conteiner-maraton card-scale">
+        <div class="conteiner-infomaraton">
+            <h2>Próxima competición</h2>
+            <p class="info-maraton">¿Quieres saber dónde serán las próximas Carreras para empezar a prepararte con Nosotros?</p>
+            <div id="paises">
+                <a href="javascript:void(0);" id="linkEspana">España</a>
+                <a href="javascript:void(0);" id="linkPortugal">Portugal</a>
+                <a href="javascript:void(0);" id="linkItalia">Italia</a>
+                <a href="javascript:void(0);" id="linkFrancia">Francia</a>
+                <a href="javascript:void(0);" id="linkAmerica">América</a>
+            </div>
+            <div id="caja">
+                <!--CAJA DONDE SE CARGA LA INFORMACION DE JSON-->
+                <p>Haz clic en un país para ver las competiciones.</p>
+            </div>
+        </div>
+    </section>
+    <!--CUARTA SECCOPM-->
+    <section class="conteiner-nosotros">
+        <div class="info-nosotros"> 
+            <h2>Nuestra Historia</h2>
+            <p>Soy Nicolas, y a mis 33 años, puedo decir que mi vida ha sido una maratón de aprendizaje, pasión y, sobre todo, de conexión humana. Nací y crecí en el corazón de Argentina, donde el fútbol es una religión y el asado una ceremonia. Desde chico, la energía del deporte me atrapó. No era el más talentoso, pero sí el más obstinado. Esa obstinación me llevó a entender que el verdadero potencial no siempre es visible a primera vista; a veces, hay que excavar profundo para encontrarlo. <br>
+
+            Mis primeros años en el deporte fueron un vaivén de euforia y frustración. Aprendí a las malas lo que significaba una lesión, una meta no alcanzada, la duda. Fue en esos momentos de vulnerabilidad cuando descubrí mi verdadera vocación. No quería ser solo un atleta; quería ayudar a otros a navegar ese camino, a evitar mis errores y a potenciar sus virtudes. Estudié, me formé, devoré cada libro sobre biomeecánica, nutrición y psicología deportiva que caía en mis manos. Pero lo más importante, aprendí a escuchar. A escuchar el cuerpo, sí, pero también el alma de cada persona. <br>
+
+            La idea de "Vértice Performance" nació de esa convicción: que el entrenamiento de élite no es solo levantar pesas o correr kilómetros. Es un viaje personal, íntimo, donde cada atleta es un universo único. Cuando fundé Vértice, mi visión era crear un espacio donde la ciencia se encontrara con la empatía, y donde los números se tradujeran en historias de superación. <br>
+
+            Recuerdo el día en que tomé una de las decisiones más importantes de mi vida: mudarme a Italia. Fue un salto al vacío, dejando atrás mi Argentina natal para buscar nuevos desafíos y sumergirme en el epicentro del deporte europeo. Los primeros meses fueron una mezcla de emoción y vértigo. Un nuevo idioma, una nueva cultura, y la necesidad de demostrar mi valía en un mercado altamente competitivo. Pero mi pasión era mi brújula. <br>
+
+            Pronto, mi reputación como un entrenador que combinaba la ciencia con una profunda conexión personal empezó a crecer. Tuve la oportunidad de colaborar con atletas de élite que se preparaban para los eventos más grandes del mundo. Recuerdo especialmente mi trabajo con un grupo de triatletas que aspiraban al Campeonato Mundial de Ironman en Niza. No era solo un plan de entrenamiento; era una inmersión total en sus vidas. Pasábamos horas analizando cada brazada en la piscina, cada pedalada en las carreteras de la Riviera, y cada zancada en la pista. Pero también hablábamos de sus miedos, sus sacrificios, y la inmensa presión que sentían. Mi rol era ser su ancla, su motivador, el que les recordaba por qué habían empezado. <br>
+
+
+            Cuando vi a mis atletas cruzar la meta en Niza, algunos logrando sus mejores marcas personales, otros clasificando para Kona, sentí una emoción indescriptible. No fue solo una victoria deportiva; fue la confirmación de que la verdadera gloria se gesta en el interior, en la confianza que uno construye día a día, y en el apoyo incondicional de un equipo que cree en ti. 
+
+            En Vértice Performance, no solo entrenamos atletas; construimos relaciones. Nos sumergimos en sus sueños, celebramos sus pequeños avances y los acompañamos en cada desafío. Porque sé, por experiencia propia, que detrás de cada récord, de cada medalla, hay una historia personal, una lucha silenciosa y un corazón que late con la misma pasión que el mío. Y esa, esa es la historia que me impulsa cada día.</p>
+        </div>
+    </section>
+</main>
+<footer>
+        
+        <div>
+            <p>Todos los derechos reservados</p>
+
+            <div class="redes">
+                <a href="https://facebook.com"><img src="./assets/iconos/facebook-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+                <a href="https://instagram.com"><img src="./assets/iconos/instagram-1-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+                <a href="https://whatsapp.com"><img src="./assets/iconos/whatsapp-whats-app-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+                <a href="https://linkedin.com"><img src="./assets/iconos/linkedin-linked-in-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+            </div>
+
+            <p>Domicilio legal Via Boston 102, CP 10137, Torino, Italia.</p>
+        </div>
+
+</footer>
+    
+   <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="./js/competicion.js"></script>
+    <!-- script.js -->
+    <script src="./js/script.js"></script>   
+    <!-- Carga de Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--favico-->
+    <link rel="icon" type="image/x-icon" href="./../favico.ico">
+    <!--maps-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!--css-->
+    <link rel="stylesheet" href="./../css/style.css">
+    <!--fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <title>Chialva Nicolas</title>
+</head>
+<body>
+    <header>
+     
+           <div class="link-navBar">
+                <nav>
+                    <div>
+                        <img src="./../assets/galeria/Preview(1).png" alt="logo" class="logo" width="200" height="200">
+                    </div>
+                    <ul>
+                        <li><a href="./../index.html">Inicio</a></li>
+                        <li><a href="./galeria.html">Galeria</a></li>
+                        <li class="menu-item active"><a href="#">Contactanos</a></li>
+                        <li><a href="./presupuesto.html">Presupuesto</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+    </header>
+    <main>
+       <div class="card mb-3 contactanos">
+            <img src="./../assets/galeria/portada.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Nuestra oficina</h5>
+                <p class="card-text">Nosotros nos encontramos en Torino, Italia, aunque la mayoria de los servicios que realizamos son online no queremos dejar de invitarte a visitarnos y poder conocernos, y si acaso estas en la ciudad podremos entrenar juntos</p>
+               
+            </div>
+        </div>
+
+        <div id="mapa"></div>
+    </main>
+    <footer>
+        
+          <div>
+            <p>Todos los derechos reservados</p>
+
+            <div class="redes">
+                <a href="https://facebook.com"><img src="./../assets/iconos/facebook-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+                <a href="https://instagram.com"><img src="./../assets/iconos/instagram-1-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+                <a href="https://whatsapp.com"><img src="./../assets/iconos/whatsapp-whats-app-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+                <a href="https://linkedin.com"><img src="./../assets/iconos/linkedin-linked-in-svgrepo-com.svg" alt="facebook" width="150" height="150" ></a>
+            </div>
+
+            <p>Domicilio legal Via Boston 102, CP 10137, Torino, Italia.</p>
+        </div>
+
+    </footer>
+    
+    <!--js mapa-->
+    <script src="./../js/map.js"></script>
+    <!--maps-->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+    <!--js-->
+    <script src="./js/script.js"></script>
+    <!--bootstrap-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>
