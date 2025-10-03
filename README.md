@@ -5,10 +5,10 @@ Un progetto pratico di sviluppo web utilizzando **HTML**, **CSS** e **JavaScript
 
 ## Screenshot
 ![Screenshot del progetto](./assets/screen/screen1.png)
-![Screenshot del progetto](./assets/screen/screen1.png)
-![Screenshot del progetto](./assets/screen/screen1.png)
-![Screenshot del progetto](./assets/screen/screen1.png)
-![Screenshot del progetto](./assets/screen/screen1.png) <!-- Cambia "screenshot.png" por el nombre real de tu imagen -->
+![Screenshot del progetto](./assets/screen/screen2.png)
+![Screenshot del progetto](./assets/screen/screen3.png)
+![Screenshot del progetto](./assets/screen/screen4.png)
+![Screenshot del progetto](./assets/screen/screen5.png) <!-- Cambia "screenshot.png" por el nombre real de tu imagen -->
 
 ## Funzionalità
 - Struttura HTML chiara e semantica
