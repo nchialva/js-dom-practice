@@ -1,4 +1,5 @@
 📌 Progetto JS - Lavoro Pratico
+
 📄 Descrizione
 
 Questo progetto consiste in una piattaforma web interattiva e dinamica sviluppata con HTML, CSS, JavaScript, Node.js ed MongoDB.
@@ -35,9 +36,13 @@ L’area galleria offre una visualizzazione elegante e dinamica delle immagini t
 
 In questa sezione l’utente può:
 📝 Visualizzare e selezionare diversi piani e servizi
+
 📎 Scaricare i dettagli in PDF per ogni offerta
+
 ➕ Aggiungere prodotti ed extra al carrello dinamico
+
 🧮 Visualizzare totale aggiornato in tempo reale
+
 🗑️ Rimuovere prodotti individualmente
 
 Carrello interattivo sviluppato in JavaScript con gestione frontend e logica lato client.
@@ -49,22 +54,40 @@ Carrello interattivo sviluppato in JavaScript con gestione frontend e logica lat
 ⚙️ Funzionalità Principali
 
 ✔ Struttura HTML semantica e ottimizzata
+
 ✔ Styling moderno e responsivo con CSS e Bootstrap
+
 ✔ Interattività dinamica con JavaScript (ES6+)
+
 ✔ Backend con Node.js e Express
+
 ✔ Salvataggio dati utenti in MongoDB
+
 ✔ Caricamento dinamico di contenuti da JSON
+
 ✔ Download di PDF personalizzati
+
 ✔ Gestione del carrello in tempo reale
 
+
 🛠️ Tecnologie Utilizzate
+
 Tecnologia	Descrizione
+
 🖥️ HTML5	Struttura semantica e accessibile
+
 🎨 CSS3	Styling moderno e responsive
+
 ⚙️ JavaScript ES6+	Interattività dinamica e logica frontend
+
 🌐 Node.js	Backend e gestione server
+
 🚏 Express.js	Routing e API REST
+
 🗄️ MongoDB	Database per salvataggio dei dati
+
 💡 Lightbox	Visualizzazione dinamica immagini
+
 📄 PDF Download	Dettagli prodotti scaricabili
+
 📦 Bootstrap	Supporto al layout responsive
