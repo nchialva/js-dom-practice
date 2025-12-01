@@ -1,5 +1,6 @@
 📌 Progetto JS - Lavoro Pratico
 
+
 📄 Descrizione
 
 Questo progetto consiste in una piattaforma web interattiva e dinamica sviluppata con HTML, CSS, JavaScript, Node.js ed MongoDB.
@@ -7,16 +8,21 @@ L’applicazione offre funzionalità avanzate come gestione del carrello, invio 
 
 L’obiettivo è fornire un sito moderno, funzionale e professionale, simulando un vero servizio di consulenza, nutrizione e allenamento personalizzato.
 
+
+
 🏠 Homepage
+
 
 La pagina iniziale introduce l’utente ai principali servizi offerti, attraverso sezioni informative, immagini, un video introduttivo e collegamenti rapidi alle altre aree del sito.
 Inoltre, alcuni contenuti vengono caricati dinamicamente tramite un file JSON, come informazioni su eventi e competizioni.
 
 ![Screenshot del progetto](./assets/screen/screen1.png)
+
 ![Screenshot del progetto](./assets/screen/screen4.png)
 
 
 📩 Sezione Contatti
+
 
 In questa sezione gli utenti possono compilare un modulo per inviare richieste o domande.
 I dati vengono inviati tramite Node.js e salvati in modo sicuro in MongoDB, permettendo la gestione e conservazione delle richieste in modo professionale.
@@ -24,12 +30,15 @@ I dati vengono inviati tramite Node.js e salvati in modo sicuro in MongoDB, perm
 
 ![Screenshot del progetto](./assets/screen/screen2.png)
 
+
 🖼️ Galleria Immagini
+
 
 L’area galleria offre una visualizzazione elegante e dinamica delle immagini tramite Lightbox, che consente all’utente di aprire, ingrandire e scorrere le immagini in modalità interattiva.
 
 
 ![Screenshot del progetto](./assets/screen/screen3.png)
+
 
 
 🛒 Sezione Prodotti e Carrello
@@ -48,7 +57,9 @@ In questa sezione l’utente può:
 Carrello interattivo sviluppato in JavaScript con gestione frontend e logica lato client.
 
 
+
 ![Screenshot del progetto](./assets/screen/screen5.png) 
+
 
 
 ⚙️ Funzionalità Principali
@@ -68,6 +79,8 @@ Carrello interattivo sviluppato in JavaScript con gestione frontend e logica lat
 ✔ Download di PDF personalizzati
 
 ✔ Gestione del carrello in tempo reale
+
+
 
 
 🛠️ Tecnologie Utilizzate
