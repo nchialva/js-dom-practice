@@ -1,4 +1,4 @@
-📌 Progetto JS - Lavoro Pratico
+--------------------------------------------------------------------📌 Progetto JS - Lavoro Pratico----------------------------------------------------------------------------------------------------------
 
 
 📄 Descrizione
@@ -7,6 +7,10 @@ Questo progetto consiste in una piattaforma web interattiva e dinamica sviluppat
 L’applicazione offre funzionalità avanzate come gestione del carrello, invio di dati al database, visualizzazione dinamica con Lightbox, integrazione di PDF scaricabili, e contenuti caricati tramite JSON.
 
 L’obiettivo è fornire un sito moderno, funzionale e professionale, simulando un vero servizio di consulenza, nutrizione e allenamento personalizzato.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26,6 +30,8 @@ Inoltre, alcuni contenuti vengono caricati dinamicamente tramite un file JSON, c
 ![Screenshot del progetto](./assets/screen/screen4.png)
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 📩 Sezione Contatti
@@ -42,6 +48,9 @@ I dati vengono inviati tramite Node.js e salvati in modo sicuro in MongoDB, perm
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 🖼️ Galleria Immagini
 
@@ -56,10 +65,13 @@ L’area galleria offre una visualizzazione elegante e dinamica delle immagini t
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🛒 Sezione Prodotti e Carrello
+
+
+
 
 In questa sezione l’utente può:
 📝 Visualizzare e selezionare diversi piani e servizi
@@ -83,6 +95,8 @@ Carrello interattivo sviluppato in JavaScript con gestione frontend e logica lat
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ⚙️ Funzionalità Principali
@@ -103,6 +117,9 @@ Carrello interattivo sviluppato in JavaScript con gestione frontend e logica lat
 
 ✔ Gestione del carrello in tempo reale
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
