@@ -1,4 +1,5 @@
-                                                                                  ---------📌 Progetto JS - Lavoro Pratico-----------
+
+📌 Progetto JS - Lavoro Pratico
 
 
 📄 Descrizione
