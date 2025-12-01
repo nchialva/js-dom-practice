@@ -139,10 +139,10 @@ Tecnologia	Descrizione
 
 🚏 Express.js	Routing e API REST
 
-🗄️ MongoDB	Database per salvataggio dei dati
+🗄️ MongoDB       Database per salvataggio dei dati
 
-💡 Lightbox	Visualizzazione dinamica immagini
+💡 Lightbox       Visualizzazione dinamica delle immagini
 
-📄 PDF Download	Dettagli prodotti scaricabili
+📄 PDF Download   Dettagli prodotti scaricabili
 
-📦 Bootstrap	Supporto al layout responsive
+📦 Bootstrap      Supporto al layout responsive
