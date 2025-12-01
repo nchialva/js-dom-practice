@@ -56,3 +56,34 @@ toggleButton.addEventListener('click', () => {
     mouseCircle.style.display = isEffectActive ? 'block' : 'none';
 })
 
+
+//contactanos
+
+const form = document.getElementById('contactForm');
+const status = document.getElementById('formStatus');
+
+form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const data = {
+        nombre: form.nombre.value,
+        email: form.email.value,
+        telefono: form.telefono.value,
+        mensaje: form.mensaje.value
+    };
+
+    try {
+        const res = await fetch('http://localhost:3000/contact', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+        });
+
+        const result = await res.json();
+        status.textContent = result.message;
+        form.reset();
+    } catch (err) {
+        status.textContent = 'Error al enviar el mensaje';
+        console.error(err);
+    }
+});
